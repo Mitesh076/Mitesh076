@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Full-Stack Developer<br>Currently Learning ReactJS and NodeJS.<br>
+Aspiring MERN-Stack Developer<br>Currently Learning ReactJS and NodeJS.<br>
 
 
 ## 🌐 Socials:
